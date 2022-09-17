@@ -6,7 +6,7 @@ Curso de Extensão IoT na Prática para Iniciantes
 
 No ThinkerCad monte o circuito da figura abaixo:
 
-<img src="Projeto para avaliação - Blocos.JPG"
+<img src="Projeto para avaliação - Circuito.JPG"
 
 
 A programação em blocos fica conforme abaixo:

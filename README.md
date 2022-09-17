@@ -7,7 +7,7 @@ PROJETO PARA AVALIAÇÃO
 Projeto para ligar uma lâmpada 12V durante 10 segundos através de um sensor de movimento, porém só funciona se estiver escuro.
 
 Lista de componentes utilizados na simulação no ThinkerCad:
-01 x Arduino Uno R3
+01 x Arduino Uno R3<br>
 01 x Sensor PIR
 01 x Relé SPDT
 01 x Foto resistor

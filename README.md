@@ -23,8 +23,7 @@ No ThinkerCad monte o circuito da figura abaixo:
 
 A programação em blocos fica conforme abaixo:
 
-
 <img src="Projeto para avaliação - Blocos.JPG">
-
+Obs: O valor 500 na entrada analógica AI1 é um valor estimado, para montar o circuito com componetes reais é necessário testar a intensidade de luz do foto resistor e alterar o valor para o mais apropriado.
 
 <a href="Projeto para avaliação.ino">Clique aqui para o código</a>

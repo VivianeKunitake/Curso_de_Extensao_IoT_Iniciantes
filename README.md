@@ -10,7 +10,7 @@ Lista de componentes utilizados na simulação no ThinkerCad:<br>
 01 x Arduino Uno R3<br>
 01 x Sensor PIR<br>
 01 x Relé SPDT<br>
-01 x Foto resistor<br>
+01 x Fotoresistor<br>
 01 x Resistor de 1k Ohm<br>
 01 x Lâmpada<br>
 01 x Fonte de energia ajustada para 12V e 2A<br>
@@ -24,7 +24,8 @@ No ThinkerCad monte o circuito da figura abaixo:
 A programação em blocos fica conforme abaixo:
 
 <img src="Projeto para avaliação - Blocos.JPG">
-Obs: O valor 500 na entrada analógica AI1 é um valor estimado, para montar o circuito com componetes reais é necessário testar a intensidade de luz do foto resistor e alterar o valor para o mais apropriado.
+Obs: O valor 500 na entrada analógica AI1 é um valor estimado, para montar o circuito com componentes reais é necessário testar a intensidade de luz do fotoresistor e alterar esse valor para um mais apropriado.
+<br>
 <br>
 <br>
 <a href="Projeto para avaliação.ino">Clique aqui para o código</a>

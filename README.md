@@ -14,6 +14,7 @@ Lista de componentes utilizados na simulação no ThinkerCad:<br>
 01 x Resistor de 1k Ohm<br>
 01 x Lâmpada<br>
 01 x Fonte de energia ajustada para 12V e 2A<br>
+01 x Placa de ensaio mini<br>
 
 No ThinkerCad monte o circuito da figura abaixo:
 
